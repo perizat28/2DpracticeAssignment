@@ -18,6 +18,7 @@ public class task6 {
             }
             System.out.println("}");
         }
+        sc.close();
 
         //вводите числа в ряд через пробелы
     }

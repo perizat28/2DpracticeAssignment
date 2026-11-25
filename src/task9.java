@@ -23,5 +23,6 @@ public class task9 {
         if (!found) {
             System.out.println("Not found");
         }
+        scanner.close();
     }
 }
